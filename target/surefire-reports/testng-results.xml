@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-15T14:33:40 IST" name="Suite" finished-at="2020-07-15T14:33:40 IST" duration-ms="61">
+    <groups>
+    </groups>
+    <test started-at="2020-07-15T14:33:40 IST" name="Test" finished-at="2020-07-15T14:33:40 IST" duration-ms="61">
+      <class name="seleniumAcademy.mavenjaja.RESTAPITest">
+        <test-method signature="browserAutomation()[pri:0, instance:seleniumAcademy.mavenjaja.RESTAPITest@5906ebcb]" started-at="2020-07-15T14:33:40 IST" name="browserAutomation" finished-at="2020-07-15T14:33:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method signature="elementUi()[pri:0, instance:seleniumAcademy.mavenjaja.RESTAPITest@5906ebcb]" started-at="2020-07-15T14:33:40 IST" name="elementUi" finished-at="2020-07-15T14:33:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUi -->
+      </class> <!-- seleniumAcademy.mavenjaja.RESTAPITest -->
+      <class name="seleniumAcademy.mavenjaja.AppiumTest">
+        <test-method signature="deleteTwitter()[pri:0, instance:seleniumAcademy.mavenjaja.AppiumTest@3b2da18f]" started-at="2020-07-15T14:33:40 IST" name="deleteTwitter" finished-at="2020-07-15T14:33:40 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJar()[pri:0, instance:seleniumAcademy.mavenjaja.AppiumTest@3b2da18f]" started-at="2020-07-15T14:33:40 IST" name="postJar" finished-at="2020-07-15T14:33:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJar -->
+      </class> <!-- seleniumAcademy.mavenjaja.AppiumTest -->
+      <class name="seleniumAcademy.mavenjaja.SeleniumTest">
+        <test-method signature="malware()[pri:0, instance:seleniumAcademy.mavenjaja.SeleniumTest@258e2e41]" started-at="2020-07-15T14:33:40 IST" name="malware" finished-at="2020-07-15T14:33:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- malware -->
+        <test-method signature="nativeAndroidApp()[pri:0, instance:seleniumAcademy.mavenjaja.SeleniumTest@258e2e41]" started-at="2020-07-15T14:33:40 IST" name="nativeAndroidApp" finished-at="2020-07-15T14:33:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAndroidApp -->
+      </class> <!-- seleniumAcademy.mavenjaja.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
